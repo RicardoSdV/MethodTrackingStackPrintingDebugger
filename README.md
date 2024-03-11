@@ -3,3 +3,5 @@ Its a python27 class which you can make other classes inherit from which will pr
 
 
 Includes some test classes to check out how it works, but they DO NOT include all the possible scenarios you might encounter in mad inheritance scenarios so buyer bewhere. Also im a noob theres probably a bunch of bugs in there.
+
+PD: This has been turned into various smaller projects but the most similar is trak
